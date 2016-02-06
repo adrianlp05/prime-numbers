@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     
     @IBAction func isItPrime(sender: AnyObject) {
         
-        
+      //commenting
         
      if  let number = Int(numberTextField.text!){
         
